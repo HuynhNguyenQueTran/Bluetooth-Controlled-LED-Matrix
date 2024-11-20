@@ -174,4 +174,4 @@ void readFromEEPROM(char* buffer, int length);
 -  Lê Văn Tiến
 -  Lưu Thùy Dương
 -  Huỳnh Ngọc Kỳ
--  Huỳnh Nguyễn Quế 
+-  Huỳnh NguyTrân
